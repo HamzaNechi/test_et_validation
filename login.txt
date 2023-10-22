@@ -1,0 +1,32 @@
+email : nechihamza114@gmail.com
+mdp : 123456
+role : patient
+
+
+email : admin@admin.com
+mdp : 123456
+role : admin
+
+
+email : jean.martin@gmail.com
+mdp : 123456
+role : doctor
+
+
+email : beyram@gmail.com
+mdp : 123456
+role : doctor
+
+
+email : sawssen@gmail.com
+mdp : 123456
+role : patient
+
+
+
+
+
+
+
+
+
