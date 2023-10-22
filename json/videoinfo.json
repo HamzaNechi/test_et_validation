@@ -1,0 +1,48 @@
+[
+    {
+        "title": "video 1",
+        "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
+        "thumbnail": "Assets/two.jpg",
+        "duration": "60 seconds"
+    },
+    {
+        "title": "video 2",
+        "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
+        "thumbnail": "Assets/two.jpg",
+        "duration": "60 seconds"
+
+    },
+    {
+        "title": "video 3",
+        "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
+        "thumbnail": "Assets/Logo.png",
+        "duration": "60 seconds"
+        
+    },
+    {
+    "title": "video 2",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
+    "thumbnail": "assets/yoga.jpg",
+    "duration": "60 seconds"
+    },
+    {
+    "title": "video 3",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
+    "thumbnail": "assets/Logo.png",
+    "duration": "60 seconds"
+    
+    },
+    {
+        "title": "video 2",
+        "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
+        "thumbnail": "assets/yoga.jpg",
+        "duration": "60 seconds"
+    },
+    {
+        "title": "video 3",
+        "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
+        "thumbnail": "assets/Logo.png",
+        "duration": "60 seconds"
+        
+    }
+]
